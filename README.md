@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Engineering.<br>I have been coding in Python, Django for 10 months.
+I'm currently studying Computer Engineering.<br>I have been coding in Python, Django for 1 year.
 
 
 ## 🌐 Socials:
