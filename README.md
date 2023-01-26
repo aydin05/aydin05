@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Engineering.<br>I have been coding in Python, Django for 1 year.
+I have experience in developing and maintaining various types of applications using Python programming language. I have a strong understanding of the language and its various library and framework such as Django. I have also experience working with databases such as MySQL, PostgreSQL. My skills include object-oriented programming, data structures, algorithms, and software development principles. I am also familiar with version control systems like Git and Jira. I am a quick learner and adaptable to new technologies, and I am always keen to take on new challenges and learn new things.
 
 
 ## 🌐 Socials:
